@@ -1,4 +1,3 @@
-
 FROM ubuntu:18.04
 MAINTAINER uli.hitzel@gmail.com
 EXPOSE 8080
